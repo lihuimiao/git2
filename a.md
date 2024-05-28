@@ -2,7 +2,7 @@
 
 # git命令100000000
 
-## git init
+## Git123456 init
 
 ## git status 查看状态
 
