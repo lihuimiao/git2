@@ -2,8 +2,7 @@
 
 # git命令100000000
 
-## git456 init
-
+## Git123456 init
 ## git status 查看状态
 
 ## git add 文件名 添加到暂存区
